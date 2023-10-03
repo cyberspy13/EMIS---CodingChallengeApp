@@ -1,0 +1,5 @@
+"1,Michael Block,21,Male,Eczema,Cream",
+"2,Sofia Nicholson,45,Female,Arrhythmia,Surgery",
+"3,Vincent Hugo,89,Male,Diabetes,Insulin",
+"4,Kira Mansory,12,Female,Chronic kidney disease stage 2,Dialysis",
+"5,Ivor Welsh,35,Transgender,Arthritis,Cream"
