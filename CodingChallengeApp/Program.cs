@@ -11,10 +11,10 @@ public class Program
         string answer = Console.ReadLine();
         Console.Clear();
 
-
         RetPatientData rp = new RetPatientData();
 
-        if (answer.ToLower() == "yes")
+        //if (answer.ToLower() == "yes")
+        if (IsYes(answer))
         {
             rp.Main2();
         }
@@ -81,6 +81,8 @@ public class Program
             Console.WriteLine(bye);
         }
     }
+
+    
         public static bool IsYes(string answer)
         {
             return answer != null && answer.Trim().ToLower() == "yes";

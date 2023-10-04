@@ -4,7 +4,7 @@ using System.Reflection;
 
 public class RetPatientData
 {
-
+   
     public string dataFile = @"C:\Users\mihail.lecari\source\repos\CodingChallengeApp\CodingChallengeApp\StaticData.txt";
     public string str;
     public string space = ".......................................................................";
